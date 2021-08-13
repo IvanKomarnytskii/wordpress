@@ -90,6 +90,7 @@
   letter-spacing: normal;
   text-align: center;
   color: #fff;
+  cursor: pointer
  }
 
  .more_text {
@@ -211,4 +212,170 @@
 
 .optimization_header {
   margin-left: 629px;
+}
+.finish_text {
+  margin: 0 38px 18px 46px;
+  font-family: Roboto;
+  font-size: 30px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1;
+  letter-spacing: normal;
+  text-align: center;
+  color: white;
+}
+.finish_divider {
+  width: 220px;
+  height: 7px;
+  margin: 18px 13px 39px 4px;
+  margin: 0 auto;
+  background-color: #f9bf3b;
+ 
+}
+.finish {
+  min-height: 247px;
+  padding: 86px 0 79px 0;
+
+  background: url('../img/second_bg_27zadn_y_plan_2.png')center center/cover no-repeat;
+}
+.finish_wrapper {
+  margin-top: 41px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.finish_item {
+  width: 204px;
+}
+.finish_round {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 118px;
+  height: 118px;
+  margin: 39px 60px 24.5px 62px;
+  padding: 25px 25px 29px 28px;
+  background-color: #b4e2ff;
+  border-radius: 100%;
+}
+.finish_descr {
+  margin: 24.5px 6px 22px 10px;
+  font-family: Roboto;
+  font-size: 17px;
+  font-weight: 300;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.18;
+  letter-spacing: normal;
+  text-align: center;
+  color: white;
+}
+.gift {
+min-height: 531px;
+background-color:#efefef; 
+
+}
+ 
+      
+      .gift_text {
+    font-family: Roboto;
+    font-size: 30px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    text-align: center;
+    color: #252525;
+  }
+.gift_btn {
+  display: block;
+  margin: 73px auto;
+width: 313px;
+height: 72px;
+padding: 23.5px 15px 24.5px 14px;
+box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.4);
+background-image: linear-gradient(to top, #2798b9, #3ab6da);
+text-shadow: -1px -1px 0 rgba(0, 0, 0, 0.22);
+font-family: Roboto;
+font-size: 21px;
+font-weight: normal;
+font-stretch: condensed;
+font-style: normal;
+line-height: 1.14;
+letter-spacing: normal;
+text-align: center;
+color:white;
+cursor: pointer;
+}
+.gift_icons {
+  width: 154px;
+  height: 174px;
+  margin: 0 503px 45px 504px;
+  
+}
+
+.theend{
+  min-height: 400px;
+}
+.theend_img {
+  width: 342px;
+  height: 201px;
+  margin: 0 auto;
+  margin-top: 90px;
+ 
+}
+.theend_1 {
+  margin: 36px 51px 30px 49px;
+  font-family: Roboto;
+  font-size: 30px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1;
+  letter-spacing: normal;
+  text-align: center;
+  color: #252525;
+}
+.theend_2 {
+  margin: 30px 0 24.5px;
+  font-family: Roboto;
+  font-size: 36px;
+  font-weight: 900;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1;
+  letter-spacing: normal;
+  text-align: center;
+  color: #299cbd;
+
+}
+.theend_text {
+  margin: 24.5px 2px 0 0;
+  font-family: Roboto;
+  font-size: 23px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 0.87;
+  letter-spacing: normal;
+  text-align: center;
+  color: #4a4a4a;
+}
+.besement {
+  min-height: 90px;
+  background-color: #1a1a1a;  
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.besement_text {
+
+  margin: 0 auto;
+  text-align: center;
+  width: 407px;
+  font-family: Roboto;
+  font-size: 15px;
+  font-weight: 300;
+  letter-spacing: normal;
+  color: #888;
 }
